@@ -1,0 +1,32 @@
+⚪ FiveM started at 54min, 40s and connected in Comando RJ
+🟢 Build 2944 Confirmed
+🟢 O FiveM foi Executado
+🟡 Windows Security Disabled - 46min, 21s ago
+🟡 Possible Generic Self Destructs Found [Experimental]
+🟡 Detected 1 in Windows Security
+🟡 Gosth Discord Acessed [Discord]
+🔴 Generic Injected Cheat [AXA19]
+🔴 Generic Injected Cheat [AXA20]
+🔴 Generic Injected Cheat [AXA33]
+🔴 Generic Cheat Detected in Instance load.exe
+🔴 Generic Loader Found [FSB] tinytask (2).exe
+🔴 Generic Cheat Found tinytask (2).exe [R3]
+🔴 Generic Cheat Injected in launcher (2).exe [Tyla]
+🔴 Generic Cheat Injected in fivem [Tyla]
+🔴 Generic Loader Found [KGB] load.exe
+🔴 Generic Loader Found [KGB] tinytask (2).exe
+🔴 Generic Cheat Found [BEAN$] pdtpcshsgt.dll
+🔴 Generic Cheat Found tinytask (2).exe [YSL]
+🔴 Gosth [777]
+🔴 Gosth Executed in System
+🔴 Gosth Injection [Bobo]
+🔴 Gosth [MD]
+🔴 Gosth in Use [F]
+🔴 Generic Cheat Loaded [1]
+🔴 Generic Cheat Loaded [3]
+🔴 Generic Cheat Loaded [4]
+🔴 Generic Cheating In Instance [E]
+🔴 Gosth in Instance Loaded [!]
+🔴 Generic Cheating has been Detected Loser
+🔴 Detected Attached not Permited
+🔴 Detected a Cheat Injected Instance pdtpcshsgt.dll
